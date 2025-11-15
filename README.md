@@ -1,1 +1,2 @@
-Tetris clone running on python
+Tetris clone running on python.
+Requirements pygame
